@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HomeChat</string>
+    <string name="app">Авторизация</string>
+    <string name="app2">Регистрация</string>
+    <string name="ForUs">О нас</string>
+    <string name="Sogl">Пользовательское соглашение</string>
+    <string name="SigIn">Вход</string>
+    <string name="Reg">Регистрация</string>
+    <string name="SigIn2">Зарегистрироваться</string>
+    <string name="FIO">ФИО</string>
+    <string name="number">Телефон</string>
+    <string name="Password">Пароль</string>
+    <string name="Repeat_Password">Повторите пароль</string>
+</resources>
